@@ -61,5 +61,6 @@
 
 ## Kaggle Forum##
 1. Using missing value count per observation as a predictor
+2. Read Feature selection paper
 
 
